@@ -1,0 +1,46 @@
+.bgColor{
+    background: #edf8f4;
+}
+
+.testimonial {
+    box-shadow: 0 5px 10px rgba(0,0,0,0.19), 0 3px 6px rgba(0,0,0,0.23);
+    padding: 40px;
+    margin:0 20px;
+    background-color: #fff;
+  }
+
+  .fas{
+      color: #48b774;
+  }
+  .fa{
+    color: rgb(255, 215, 0);
+}
+
+  /* .carousel .slick-prev, .carousel .slick-next {
+    width: 50px;
+    height: 50px;
+    background-color: #000 !important;
+  }
+  
+  .carousel .slick-prev:hover, .carousel .slick-prev:focus, .carousel .slick-next:hover, .carousel .slick-next:focus {
+    color: #000;
+    outline: none;
+    background: #000;
+  }
+  
+  .carousel .slick-prev:before, .carousel .slick-next:before {
+    color: #000;
+    font-family: "Raleway", sans-serif;
+  }
+  
+  .carousel .slick-next {
+    right: -55px;
+  }
+  
+  .carousel .slick-prev {
+    left: -55px;
+  } */
+
+  .slick-slider .slick-slide {
+    padding: 0 15px;
+  }

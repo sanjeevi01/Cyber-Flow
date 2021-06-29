@@ -1,0 +1,24 @@
+
+
+.image {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 30%;
+    left: 55%;
+}
+
+.captionbtn1{
+    background: #48b774;
+}
+
+.captionbtn2{
+    color:#000
+}
+
+.captionbtn2:hover{
+    background: #48b774;
+    color: #fff
+}
